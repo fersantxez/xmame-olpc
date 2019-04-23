@@ -33,6 +33,13 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 
 `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly.
 
+# Screenshots
+
+![Galaga](/pics/galaga.jpg)
+![Robocop](/pics/robocop.jpg)
+![Tehkan World Cup](/pics/tehkanwc.jpg)
+![Final Fight](/pics/finalfight.jpg)
+
 # Credits
 
 Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
