@@ -43,7 +43,9 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 # Credits
 
 Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
-I got to know the OLPC project, got involved in it, and got inspiration from Martin Langhoff and Roberth H. Hacker. Thanks!
+
+
+I got to know the OLPC project thanks to the generosity and contagious enthusiasm from Martin Langhoff and Robert H. Hacker.
 
 # ENJOY!
 
