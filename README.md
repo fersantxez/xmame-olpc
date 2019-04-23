@@ -24,7 +24,7 @@ Switch into the GNOME "traditional linux desktop" mode. You can  do that by goin
 Once in GNOME [DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) and install either by clicking on it, or by executing `yum install ` from a terminal. For example, if the RPM file is in the `/home/olpc/Downloads` folder:
 
 `
-sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpmrpm
+sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
 `
 
 # Usage
