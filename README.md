@@ -1,7 +1,9 @@
 # xmame-olpc
 
-## TL;DR
+### TL;DR
 [DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) (This is a direct link. You may want to right-click and "Save as")
+
+## Intro
 
 [**MAME**](www.mamedev.org) is a multi-purpose emulation framework that allows classic arcade machines to run in standard computers.
 
@@ -17,7 +19,7 @@ MAME and XMAME are portable, and the OLPC laptop provides a nice form factor for
 
 This repository provides a pre-compiled version of xmame for the OLPC laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on  an OLPC 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/XO-1.75#Upgrading_Linux)
 
-# Installation
+## Installation
 
 Switch into the GNOME "traditional linux desktop" mode. You can  do that by going into "Settings" by hovering your cursor over the XO figure. Afterwards, find the option to "Switch Desktop".
 
@@ -27,20 +29,20 @@ Once in GNOME [DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xm
 sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
 `
 
-# Usage
+## Usage
 
 After installation, there should be a new Desktop icon called `xmame`. Simply clicking on it will launch a terminal showing the games available in the system. Enter the name of a game to launch it.
 
 `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly.
 
-# Screenshots
+## Screenshots
 
 ![Galaga](/pics/galaga.jpg)
 ![Robocop](/pics/robocop.jpg)
 ![Tehkan World Cup](/pics/tehkanwc.jpg)
 ![Final Fight](/pics/finalfight.jpg)
 
-# Credits
+## Credits
 
 Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
 
