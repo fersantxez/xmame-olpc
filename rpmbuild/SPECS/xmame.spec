@@ -1,0 +1,1 @@
+../../xmame-0.106-olpc/spec/xmame.spec

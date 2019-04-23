@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=xmame
+Comment=MAME Arcade Emulator
+Exec=/usr/local/bin/xmame
+Icon=/home/olpc/.xmame/mame-icon.png
+Terminal=true

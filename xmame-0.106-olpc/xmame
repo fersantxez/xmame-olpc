@@ -1,0 +1,23 @@
+#/usr/bin/env bash
+
+#run xmame.x11 with alsa-oss script for sound emulation (requires alsa-oss)
+
+echo -e "
+
+        :::   :::       :::       :::   :::   :::::::::: 
+      :+:+: :+:+:    :+: :+:    :+:+: :+:+:  :+:         
+    +:+ +:+:+ +:+  +:+   +:+  +:+ +:+:+ +:+ +:+          
+   +#+  +:+  +#+ +#++:++#++: +#+  +:+  +#+ +#++:++#      
+  +#+       +#+ +#+     +#+ +#+       +#+ +#+            
+ #+#       #+# #+#     #+# #+#       #+# #+#             
+###       ### ###     ### ###       ### ##########       
+"
+export EXEC_DIR="/usr/local/bin"
+export ROMS_DIR="/home/olpc/.xmame/roms"
+
+echo -e "## Welcome to MAME in OLPC ##"
+echo -e "## Games available:"
+for game in $(ls ${ROMS_DIR}); do echo "- "${game::-4};done
+read -p "Type in the game to launch and press ENTER (or CTRL+C to exit): " GAME
+echo -e "Launching "${GAME}"..."
+aoss ${EXEC_DIR}/xmame.x11 ${ROMS_DIR}/${GAME}.zip -vidmod 1 -fullscreen -bufsize 30
