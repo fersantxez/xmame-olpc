@@ -18,7 +18,7 @@ This repository provides a pre-compiled version of xmame for the OLPC laptop alr
 
 Switch into the GNOME "traditional linux desktop" mode. You can  do that by going into "Settings" by hovering your cursor over the XO figure. Afterwards, find the option to "Switch Desktop".
 
-Once in GNOME, download the [RPM]() and install either by clicking on it, or by executing `yum install ` from a terminal. For example, if the RPM file is in the `/home/olpc/Downloads` folder:
+Once in GNOME,[DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) and install either by clicking on it, or by executing `yum install ` from a terminal. For example, if the RPM file is in the `/home/olpc/Downloads` folder:
 
 `
 sudo yum install -y /home/olpc/Downloads/.rpm
