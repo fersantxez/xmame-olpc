@@ -51,7 +51,7 @@ If you are looking for a way to add additional content to the emulator, [this co
 Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
 
 
-I got to know the OLPC project thanks to the generosity and contagious enthusiasm from Martin Langhoff and Robert H. Hacker.
+I got to know the OLPC project thanks to the generosity and contagious enthusiasm of Martin Langhoff and Robert H. Hacker.
 
 # ENJOY!
 
