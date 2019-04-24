@@ -9,8 +9,6 @@
 
 MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.
 
-[**XMAME**](http://freshmeat.sourceforge.net/projects/xmame) is the X11/Unix port of MAME.
-
 [**One Laptop Per Child**](www.laptop.org) is a non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, and by creating software and content for those devices.
 
 The [**OLPC 1.75**](http://wiki.laptop.org/go/XO-1.75) is a laptop designed, manufactured and shipped by OLPC, using an ARM processor. XO-1.75 is designed around the Armada 610 system on a chip, whichfeatures an 800 Mhz  Marvell Sheeva ARM (ARMv7 architecture compatible). 
