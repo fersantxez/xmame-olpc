@@ -21,9 +21,9 @@ This repository provides a pre-compiled version of xmame for the OLPC laptop alr
 
 ## Installation
 
-Switch into the GNOME "traditional linux desktop" mode. You can  do that by going into "Settings" by hovering your cursor over the XO figure. Afterwards, find the option to "Switch Desktop".
+Switch into the GNOME "traditional linux desktop" mode. You can  do that by going into "My Settings" by hovering your cursor over the XO figure. Afterwards, find the option to "Switch Desktop" at the bottom.
 
-Once in GNOME [DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) and install either by clicking on it, or by executing `yum install ` from a terminal. For example, if the RPM file is in the `/home/olpc/Downloads` folder:
+Once in GNOME, launch the web browser ("Applications" menu on the top left, "Internet" and "Epiphany Web Browser"), and [DOWNLOAD THE RPM FROM THE "DOWNLOAD" LINK HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm). Open up a Terminal ("Applications" menu, "System Tools", "Terminal"), and install with:
 
 `
 sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
@@ -33,14 +33,14 @@ sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
 
 After installation, there should be a new Desktop icon called `xmame`. Simply clicking on it will launch a terminal showing the games available in the system. Enter the name of a game to launch it.
 
-`/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly.
+*NOTE*: `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly.
 
 ## Screenshots
 
 ![Galaga](/pics/galaga.jpg)
 ![Robocop](/pics/robocop.jpg)
 ![Tehkan World Cup](/pics/tehkanwc.jpg)
-![Final Fight](/pics/finalfight.jpg)
+![Punisher](/pics/punisher.jpg)
 
 ## Content
 
@@ -48,10 +48,10 @@ If you are looking for a way to add additional content to the emulator, [this co
 
 ## Credits
 
-Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
+Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi.
 
 
-I got to know the OLPC project thanks to the generosity and contagious enthusiasm of Martin Langhoff and Robert H. Hacker.
+I got to know the OLPC project thanks to the generosity and contagious enthusiasm of Martin Langhoff and Robert H. Hacker. 
 
 # ENJOY!
 
