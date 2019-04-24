@@ -17,7 +17,7 @@ The [**OLPC 1.75**](http://wiki.laptop.org/go/XO-1.75) is a laptop designed, man
 
 MAME and XMAME are portable, and the OLPC laptop provides a nice form factor for gaming given its size and the joystick controls included around the screen. 
 
-This repository provides a pre-compiled version of xmame for the OLPC laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on  an OLPC 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/XO-1.75#Upgrading_Linux)
+This repository provides a pre-compiled version of xmame for the OLPC laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on  an OLPC 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Other versions may run as well, but haven't been tested. Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/XO-1.75#Upgrading_Linux)
 
 ## Installation
 
