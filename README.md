@@ -33,7 +33,7 @@ sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
 
 After installation, there should be a new Desktop icon called `xmame`. Simply clicking on it will launch a terminal showing the games available in the system. Enter the name of a game to launch it.
 
-*NOTE*: `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly.
+*NOTE*: `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly if you feel like tickling with how this works by default.
 
 ## Screenshots
 
