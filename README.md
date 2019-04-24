@@ -44,7 +44,7 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 
 ## Content
 
-If you are looking for a way to isntall additional content in the emulator, [this comment](https://github.com/fernandosanchezmunoz/xmame-olpc/issues/1) suggests an additional package to install.
+If you are looking for a way to add additional content to the emulator, [this comment](https://github.com/fernandosanchezmunoz/xmame-olpc/issues/1) suggests an additional package to install.
 
 ## Credits
 
