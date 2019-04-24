@@ -1,7 +1,7 @@
 # xmame-olpc
 
 ### TL;DR
-[DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) (This is a direct link. You may want to right-click and "Save as")
+[DOWNLOAD THE RPM HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm) (This is a direct link. You may want to right-click and "Save as" in your "Downloads" folder)
 
 ## Intro
 
@@ -23,7 +23,7 @@ This repository provides a pre-compiled version of xmame for the OLPC laptop alr
 
 Switch into the GNOME "traditional linux desktop" mode. You can  do that by going into "My Settings" by hovering your cursor over the XO figure. Afterwards, find the option to "Switch Desktop" at the bottom.
 
-Once in GNOME, launch the web browser ("Applications" menu on the top left, "Internet" and "Epiphany Web Browser"), and [DOWNLOAD THE RPM FROM THE "DOWNLOAD" LINK HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm). Open up a Terminal ("Applications" menu, "System Tools", "Terminal"), and install with:
+Once in GNOME, launch the web browser ("Applications" menu on the top left, "Internet" and "Epiphany Web Browser"), and [DOWNLOAD THE RPM FROM THE "DOWNLOAD" LINK HERE](https://github.com/fernandosanchezmunoz/xmame-olpc/blob/master/rpmbuild/RPMS/armv7hl/xmame-0.106-1.armv7hl.rpm). OLPC may want to open it with "Archive Manager", just cancel that. Open up a Terminal ("Applications" menu, "System Tools", "Terminal"), and install with:
 
 `
 sudo yum install -y /home/olpc/Downloads/xmame-0.106-1.armv7hl.rpm
