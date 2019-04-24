@@ -35,6 +35,7 @@ cp ../../xmame-0.106-olpc/mame-icon.png $RPM_BUILD_ROOT/home/olpc/.xmame/mame-ic
 cp ../../xmame-0.106-olpc/xmame.desktop $RPM_BUILD_ROOT/home/olpc/Desktop/xmame.desktop
 cp ../../xmame-0.106-olpc/license/* $RPM_BUILD_ROOT/usr/local/share/utils
 cp ../../xmame-0.106-olpc/spec/* $RPM_BUILD_ROOT/usr/local/share/utils
+chown -R olpc:olpc $RPM_BUILD_ROOT/home/olpc/.xmame
 
 exit
 
