@@ -11,7 +11,7 @@ MAME’s purpose is to preserve decades of software history. As electronic techn
 
 [**One Laptop Per Child**](www.laptop.org) is a non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, and by creating software and content for those devices.
 
-The [**OLPC XO 1.75**](http://wiki.laptop.org/go/XO-1.75) is a laptop designed, manufactured and shipped by OLPC, using an ARM processor. XO-1.75 is designed around the Armada 610 system on a chip, whichfeatures an 800 Mhz  Marvell Sheeva ARM (ARMv7 architecture compatible). 
+The [**OLPC XO 1.75**](http://wiki.laptop.org/go/XO-1.75) is a laptop designed, manufactured and shipped by OLPC, using an ARM processor. XO-1.75 is designed around the Armada 610 system on a chip, which features an 800 Mhz Marvell Sheeva ARM processor (ARMv7 architecture compatible). 
 
 MAME is portable, and it was ported to Unix/X11 under the name XMAME -- which makes it possible to run on the XO 1.75 laptop. The XO 1.75 provides a nice form factor for gaming given its size and the joystick controls included around the screen. 
 
