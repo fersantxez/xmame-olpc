@@ -40,7 +40,7 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 ![Galaga](/pics/galaga.jpg)
 ![Robocop](/pics/robocop.jpg)
 ![Tehkan World Cup](/pics/tehkanwc.jpg)
-![Punisher](/pics/punisher.jpg)
+![Punisher](/pics/finalfight.jpg)
 
 ## Content
 
