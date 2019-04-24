@@ -33,6 +33,15 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 
 *NOTE*: `/usr/bin/xmame` is simply a wrapper script calling `/usr/bin/xmame.x11` with a number of options that I've found convenient. Feel free to adapt it or just call `xmame.x11` directly if you feel like tickling with how this works by default.
 
+If you haven't used MAME before, here are some of the basic keys:
+
+5 -- "insert coin"
+1 -- "1 player"
+2 -- "2 players"
+TAB -- "Advanced Menu"
+
+The XO 1.75's keypad and buttons have been preconfigured to control Player 1.
+
 ## Screenshots
 
 ![Galaga](/pics/galaga.jpg)
