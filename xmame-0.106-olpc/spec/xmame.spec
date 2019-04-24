@@ -43,6 +43,7 @@ exit
 %files
 %attr(0755, root, root) /usr/local/bin/
 %attr(0755, olpc, olpc) /home/olpc/.xmame/*
+%attr(0755, olpc, olpc) /home/olpc/.xmame
 %attr(0655, root, root) /usr/local/share/utils/*
 %attr(0755, olpc, olpc) /home/olpc/Desktop/xmame.desktop
 
