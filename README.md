@@ -42,6 +42,10 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 ![Tehkan World Cup](/pics/tehkanwc.jpg)
 ![Final Fight](/pics/finalfight.jpg)
 
+## Content
+
+If you are looking for a way to isntall additional content in the emulator, [this comment](https://github.com/fernandosanchezmunoz/xmame-olpc/issues/1) suggests an additional package to install.
+
 ## Credits
 
 Most of the guidance around compiling xmame for ARM has been found in [this blog post](https://www.anavi.org/article/177/) by Leon Anavi. Thanks!
