@@ -35,7 +35,7 @@ After installation, there should be a new Desktop icon called `xmame`. Simply cl
 
 If you haven't used MAME before, here are some of the basic keys:
 
-- 5 -- "insert coin"
+- 6 -- "insert coin"
 - 1 -- "1 player"
 - 2 -- "2 players"
 - TAB -- "Advanced Menu"
