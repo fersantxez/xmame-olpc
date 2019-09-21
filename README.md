@@ -5,17 +5,15 @@
 
 ## Intro
 
-[**MAME**](www.mamedev.org) is a multi-purpose emulation framework that allows classic arcade machines to run in standard computers.
+This repository provides a pre-compiled version of xmame for the XO 1.75 laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on an XO 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Other versions may run as well, but haven't been tested. Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/Release_notes/13.2.10#XO-1.75)
 
-MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important "vintage" software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.
+[**MAME**](www.mamedev.org) is a multi-purpose emulation framework that allows classic arcade machines to run in standard computers.
 
 [**One Laptop Per Child**](www.laptop.org) is a non-profit initiative established with the goal of transforming education for children around the world; this goal was to be achieved by creating and distributing educational devices for the developing world, and by creating software and content for those devices.
 
 The [**OLPC XO 1.75**](http://wiki.laptop.org/go/XO-1.75) is a laptop designed, manufactured and shipped by OLPC, using an ARM processor. XO-1.75 is designed around the Armada 610 system on a chip, which features an 800 Mhz Marvell Sheeva ARM processor (ARMv7 architecture compatible). 
 
 MAME is portable, and it was ported to Unix/X11 under the name XMAME -- which makes it possible to run on the XO 1.75 laptop. The XO 1.75 provides a nice form factor for gaming given its size and the joystick controls included around the screen. 
-
-This repository provides a pre-compiled version of xmame for the XO 1.75 laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on an XO 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Other versions may run as well, but haven't been tested. Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/Release_notes/13.2.10#XO-1.75)
 
 ## Installation
 
