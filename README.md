@@ -5,7 +5,7 @@
 
 ## Intro
 
-This repository provides a pre-compiled version of xmame for the [**OLPC XO 1.75**](http://wiki.laptop.org/go/XO-1.75) laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on an XO 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Other versions may run as well, but haven't been tested. Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/Release_notes/13.2.10#XO-1.75)
+This repository provides a pre-compiled version of [xmame](www.mamedev.org) for the [**OLPC XO 1.75**](http://wiki.laptop.org/go/XO-1.75) laptop already prepared to be installed and run on the platform with minimal effort. This has been tested to run correctly on an XO 1.75 unit running OLPC Linux version [13.2.10-22](http://download.laptop.org/xo-1.75/os/official/13.2.10-22/). Other versions may run as well, but haven't been tested. Instructions on how to upgrade the OLPC version of Linux can be found [here](http://wiki.laptop.org/go/Release_notes/13.2.10#XO-1.75)
 
 [**MAME**](www.mamedev.org) is a multi-purpose emulation framework that allows classic arcade machines to run in standard computers.
 
